@@ -82,7 +82,7 @@ anomaly-detection-iot-autoencoder/
 
 ## 📌 Notes
 
-- This project was developed as part of a machine learning internship with VCodez.
+- This project was developed as part of a machine learning internship training.
 - Anomalies are defined as entries whose reconstruction error exceeds the 95th percentile.
 
 ---
