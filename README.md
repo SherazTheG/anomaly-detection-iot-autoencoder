@@ -67,6 +67,10 @@ streamlit run App.py
 ```
 anomaly-detection-iot-autoencoder/
 ├── App.py                  # Streamlit frontend
+├── dataset.csv             # Dataset
+├── dataset_cleaned.csv     # Cleaned Dataset
+├── Preliminary Report.docx # Basic Document Overview
+├── Project.ipynb           # Model Building
 ├── autoencoder_model.h5    # Trained TensorFlow model
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project documentation
